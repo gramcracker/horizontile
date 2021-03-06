@@ -1,10 +1,10 @@
 # horizontile
 Horizontal tiling config for fvwm focused toward convergance between desktop and mobile. The primary navigational method for this config is through keyboard shortcuts. 
 
-##Prerequisites
+## Prerequisites
 fvwm
 
-##Installation
+## Installation
 Clone/download repo:
 ```
 cd ~ && git clone https://github.com/gramcracker/horizontile.git
